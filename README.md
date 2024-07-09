@@ -1,2 +1,2 @@
 # Netflix Clone
-Build a clone of Netflix using HTML and CSS.
+Build a UI of Netflix using HTML and CSS.
